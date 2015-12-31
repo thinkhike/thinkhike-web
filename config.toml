@@ -1,4 +1,3 @@
-baseurl = "http://thinkhike.com/"
 languageCode = "en-us"
 title = "Think Hike"
 theme = "hugo-uno"
