@@ -5,3 +5,7 @@ theme = "hugo-uno"
 [params]
   description = "Let's hike together to learn, grow, and have fun!"
   author = "Nikola Tesla"
+  [params.Play]
+  	Text = "Hike"
+  	Url = "https://code.thinkhike.com"
+  	Title = "Beginning a code hike..."
